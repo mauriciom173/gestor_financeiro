@@ -33,3 +33,8 @@ git push -u origin main
 git commit -m "Build for GitHub Pages"
 git push
 
+git add .
+git commit -m "ci: deploy automático para GitHub Pages"
+git push
+
+
