@@ -1,0 +1,27 @@
+https://github.com/mauriciom173/gestor_financeiro.git
+
+
+
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+export default defineConfig({
+  base: '/gestor_financeiro/',
+  plugins: [react()],
+})
+
+
+
+npm install
+npm run dev
+
+
+npm run build
+
+
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/mauriciom173/gestor_financeiro.git
+git push -u origin main
