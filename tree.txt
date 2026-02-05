@@ -1,0 +1,64 @@
+gestor_financeiro/
+├─ .github/
+│  └─ workflows/
+│     └─ deploy.yml
+├─ components/
+│  ├─ Dashboard.tsx
+│  ├─ Login.tsx
+│  └─ TransactionModal.tsx
+├─ dist/
+│  ├─ assets/
+│  │  └─ index-Dwiw665L.js
+│  └─ index.html
+├─ .env.local
+├─ .gitignore
+├─ App.tsx
+├─ constants.tsx
+├─ index.html
+├─ index.tsx
+├─ metadata.json
+├─ package-lock.json
+├─ package.json
+├─ rascunho.txt
+├─ README.md
+├─ tree.txt
+├─ tsconfig.json
+├─ types.ts
+└─ vite.config.ts
+
+
+
+
+
+
+
+
+
+
+gestor_financeiro/
+├─ .github/
+│  └─ workflows/
+│     └─ deploy.yml
+├─ components/
+│  ├─ Dashboard.tsx
+│  ├─ Login.tsx
+│  └─ TransactionModal.tsx
+├─ dist/
+│  ├─ assets/
+│  │  └─ index-Dwiw665L.js
+│  └─ index.html
+├─ .env.local
+├─ .gitignore
+├─ App.tsx
+├─ constants.tsx
+├─ index.html
+├─ index.tsx
+├─ metadata.json
+├─ package-lock.json
+├─ package.json
+├─ rascunho.txt
+├─ README.md
+├─ tree.txt
+├─ tsconfig.json
+├─ types.ts
+└─ vite.config.ts
