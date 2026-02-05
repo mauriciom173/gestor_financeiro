@@ -11,6 +11,9 @@ export default defineConfig({
 })
 
 
+Name: GEMINI_API_KEY
+Value: AIzaSyC6i3qeT5zEFmV46RE_yXuGxKK_mcA_Xjk
+
 
 npm install
 npm run dev
@@ -38,3 +41,11 @@ git commit -m "ci: deploy automático para GitHub Pages"
 git push
 
 
+declare const __GEMINI_API_KEY__: string
+
+const apiKey = __GEMINI_API_KEY__
+
+
+git add .
+git commit -m "fix: build correto para GitHub Pages"
+git push
