@@ -25,3 +25,11 @@ git commit -m "Initial commit"
 git branch -M main
 git remote add origin https://github.com/mauriciom173/gestor_financeiro.git
 git push -u origin main
+
+ git config --global user.email "cortesmilionarios.new@gmail.com"
+ git config --global user.name "mauriciom173"
+
+ git add .
+git commit -m "Build for GitHub Pages"
+git push
+
